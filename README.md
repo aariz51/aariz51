@@ -4,62 +4,27 @@
   <img alt="aariz51's GitHub profile" src="dark_mode.svg" />
 </picture>
 
-# Hi, I'm Aariz
+# 💫 About Me:
+🔭 I’m currently working on SafeMama, SafeChoice & Halal Scanner (live on the App Store / Play Store) and Reclip, a native macOS screen recorder<br>🚀 Indie hacker — I design, build, ship and monetize my own apps, and take on freelance product work on the side<br>👯 I’m looking to collaborate on AI-powered consumer apps, Flutter products and developer tooling<br>🌱 I’m currently learning Rust (Tauri) and deeper native macOS — ScreenCaptureKit, AVFoundation & Metal<br>💬 Ask me about Flutter, Swift, Next.js, Supabase, RevenueCat subscriptions and shipping to the App Store & Play Store<br>⚡ Fun fact: I ship end-to-end — mobile app, backend, marketing site, paywall and the launch video
 
-I build AI-powered mobile apps and web products, mostly with Flutter, TypeScript, Next.js, React, Node.js, and AI APIs.
 
-My work is focused on turning practical product ideas into usable apps: product safety scanning, AI video tooling, legal/support pages for shipped apps, and backend systems that connect mobile and web experiences.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aariz_rasheed_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aariz-rasheed-5487a7348) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RasheedAariz) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AarizRasheed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aarizrasheed2345@gmail.com) 
 
-Some production apps and App Store/Play Store codebases stay private, but I keep selected open-source and public support projects here so people can see how I think, build, and ship.
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=aariz51&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=aariz51&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=aariz51&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## What I work on
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aariz51&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-- Mobile apps with Flutter and Dart
-- AI-assisted consumer products
-- SaaS and creator tooling
-- Node.js APIs and product backends
-- Next.js and React web apps
-- App support, privacy, and legal pages
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=aariz51&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## Featured projects
+---
+[![](https://komarev.com/ghpvc/?username=aariz51&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Trustit
-
-Open-source Flutter and Node.js app for scanning consumer product labels, reading ingredients, and generating AI-assisted safety analysis.
-
-Repository: [aariz51/Trustit](https://github.com/aariz51/Trustit)
-
-### ProductStory AI
-
-Next.js prototype that turns product demos into structured video scripts and marketing video flows.
-
-Repository: [aariz51/video-ai-](https://github.com/aariz51/video-ai-)
-
-### AI Video Generator
-
-Full-stack React and Node.js video-generation experiment with upload, template selection, processing status, and backend video services.
-
-Repository: [aariz51/ai-video-generator-](https://github.com/aariz51/ai-video-generator-)
-
-### App Legal and Support Pages
-
-Public support/legal pages for shipped app projects, including SiteVoice AI, SafeChoice, and PlantCare.
-
-## Current stack
-
-```text
-Mobile:     Flutter, Dart
-Frontend:   TypeScript, React, Next.js, Tailwind CSS
-Backend:    Node.js, Express
-AI:         OpenAI, Gemini, video generation APIs
-Storage:    Supabase, Hive, local app storage
-Tooling:    GitHub, Vercel-style web workflows, mobile release workflows
-```
-
-## How I build
-
-I like building product-first: start with the user flow, make the core feature work, then improve the UI, reliability, onboarding, and release experience. My GitHub is a mix of polished public projects, app support repos, learning repos, and private production work.
-
-## Contact
-
-- GitHub: [@aariz51](https://github.com/aariz51)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
