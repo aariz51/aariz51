@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="aariz51's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 # Hi, I'm Aariz
 
 I build AI-powered mobile apps and web products, mostly with Flutter, TypeScript, Next.js, React, Node.js, and AI APIs.
